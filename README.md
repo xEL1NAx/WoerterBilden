@@ -112,9 +112,9 @@ The project was designed with future expansion in mind:
 
 ---
 
-## Visual Representation
+## Planning and Managment
 
-![GUI Screenshot](Screenshot%202025-09-23%20094937.png)
+![Scrum Screenshot](Scrum-Overview.png)
 
 *The screenshot above shows the primary interface where puzzles and fill-in-the-blank exercises are presented. It reflects the minimalistic, user-focused design of the GUI.*
 
