@@ -8,7 +8,7 @@
 
 - Elina Wolf
 - Charly Regauer
-- x
+- Benedikt Angerer
 
 ---
 
