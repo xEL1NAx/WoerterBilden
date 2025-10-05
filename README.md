@@ -116,7 +116,7 @@ The project was designed with future expansion in mind:
 
 ![Scrum Screenshot](Scrum-Overview.png)
 
-*The screenshot above shows the primary interface where puzzles and fill-in-the-blank exercises are presented. It reflects the minimalistic, user-focused design of the GUI.*
+*The screenshot above shows the planning of the project*
 
 ---
 
