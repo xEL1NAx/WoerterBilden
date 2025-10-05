@@ -4,6 +4,14 @@
 
 ---
 
+## 👥 Projektteam
+
+- Elina Wolf
+- Charly Regauer
+- x
+
+---
+
 ## Project Overview
 
 WoerterBilden allows users to engage with words in multiple ways:
@@ -37,21 +45,16 @@ The application is designed to support multiple players and randomize challenges
 
 ---
 
-## Architecture and Class Structure
+## 🧩 Spielmodi
 
-WoerterBilden is structured to maximize maintainability and clarity. The flow of data and control is unidirectional:
+- **WortPuzzle:**  
+  Buchstaben eines Wortes werden zufällig gemischt und müssen korrekt zusammengesetzt werden.  
+- **WortMitLuecke:**  
+  Teile des Wortes werden verdeckt, der Spieler muss die fehlenden Buchstaben ergänzen.  
+- **Multiplayer-Unterstützung:**  
+  Spielerwechsel erfolgt automatisch, Aufgaben werden zufällig generiert.
 
-GUI (dieGUI)
-|
-v
-Steuerung (dieSteuerung)
-|
-v
-WortListe (dieWortListe)
-|
-v
-Wort / WortPuzzle / WortMitLuecke
-
+---
 
 ### Classes
 
@@ -120,3 +123,7 @@ The project was designed with future expansion in mind:
 ## Conclusion
 
 WoerterBilden is a comprehensive tool for interactive vocabulary building. Its structured architecture ensures maintainability and easy extension, while its educational focus ensures that gameplay is both fun and instructive. With the combination of multiple puzzle types, dynamic word selection, and turn-based interaction, WoerterBilden offers a rich, engaging experience for learners of all ages.
+
+---
+
+> Dieses Projekt wurde im Rahmen eines IT Projekts in Baden-Württemberg 2025 am Beruflichen Gymnasium durchgeführt.
