@@ -56,7 +56,7 @@ The application is designed to support multiple players and randomize challenges
 
 ---
 
-### Classes
+### 📁 Classes
 
 - **GUI (`dieGUI`)**  
   Responsible for displaying the interface, puzzles, and feedback. It receives updates and task instructions from the controller but does not perform any game logic itself.
