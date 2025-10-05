@@ -12,7 +12,7 @@
 
 ---
 
-## Project Overview
+## 📋 Project Overview
 
 WoerterBilden allows users to engage with words in multiple ways:
 
@@ -23,7 +23,7 @@ The application is designed to support multiple players and randomize challenges
 
 ---
 
-## Key Features
+## 🔑 Key Features
 
 - **Interactive Learning**  
   Users actively engage with words rather than passively memorizing them. The exercises are gamified to maintain motivation and provide instant feedback on performance.
@@ -76,7 +76,7 @@ Each word class contains methods to return letters, check answers, and provide a
 
 ---
 
-## Gameplay Flow
+## 🎮 Gameplay Flow
 
 1. The GUI requests a new task from the controller.  
 2. The controller selects a word from the `WortListe` and decides which puzzle type to create.  
@@ -88,7 +88,7 @@ Each word class contains methods to return letters, check answers, and provide a
 
 ---
 
-## Educational Goals
+## 📚 Educational Goals
 
 WoerterBilden is not only a game but also an educational tool with multiple benefits:
 
@@ -101,7 +101,7 @@ The combination of fun challenges, randomization, and instant feedback creates a
 
 ---
 
-## Extensibility
+## 🔜 Extensibility
 
 The project was designed with future expansion in mind:
 
@@ -112,7 +112,7 @@ The project was designed with future expansion in mind:
 
 ---
 
-## Planning and Managment
+## 📅 Planning and Managment
 
 ![Scrum Screenshot](Scrum-Overview.png)
 
@@ -120,7 +120,7 @@ The project was designed with future expansion in mind:
 
 ---
 
-## Conclusion
+## 🔚 Conclusion
 
 WoerterBilden is a comprehensive tool for interactive vocabulary building. Its structured architecture ensures maintainability and easy extension, while its educational focus ensures that gameplay is both fun and instructive. With the combination of multiple puzzle types, dynamic word selection, and turn-based interaction, WoerterBilden offers a rich, engaging experience for learners of all ages.
 
