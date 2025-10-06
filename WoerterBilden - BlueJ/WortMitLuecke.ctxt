@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=WortMitLuecke
-comment1.params=loesung
-comment1.target=WortMitLuecke(java.lang.String)
-comment2.params=
-comment2.target=java.lang.String\ gibAufgabe()
-comment3.params=eingabe
-comment3.target=boolean\ pruefe(java.lang.String)
-numComments=4
