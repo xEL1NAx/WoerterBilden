@@ -115,7 +115,6 @@ The project was designed with future expansion in mind:
 ## 📅 Planning and Managment
 
 ![Scrum Screenshot](Scrum-Overview.png)
-
 *The screenshot above shows the planning of the project*
 
 ---
