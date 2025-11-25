@@ -1,0 +1,1 @@
+Vererbung ist ein Konzept der objektorientierten Programmierung, bei dem eine Klasse (Unterklasse oder Kindklasse) die Eigenschaften und Methoden einer anderen Klasse (Oberklasse oder Elternklasse) übernimmt.
