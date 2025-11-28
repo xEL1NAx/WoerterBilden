@@ -5,7 +5,7 @@ public class Steuerung {
     private Wortliste dieWortListe;
     private Spieler[] spieler;
     private int aAktiverSpieler;
-    private int aZustand; // 0 = neues Wort, 1 = zweiter Versuch
+    private int aZustand; // 0 = neues Wort, 1 = zweiter Versuch (GZ laut Klassendiagramm)
     // private boolean zweiterVersuch = false; // fällt weg
 
     public Steuerung() {
