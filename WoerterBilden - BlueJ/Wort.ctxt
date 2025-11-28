@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Wort
+comment1.params=loesung
+comment1.target=Wort(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ gibBuchstaben()
+comment3.params=antw
+comment3.target=boolean\ pruefeLoesung(java.lang.String)
+comment4.params=
+comment4.target=void\ setzeStatusAufNie()
+comment5.params=
+comment5.target=java.lang.Boolean\ gibStatus()
+comment6.params=
+comment6.target=void\ markiereRichtig()
+comment7.params=
+comment7.target=void\ markiereFalsch()
+comment8.params=text\ usePuzzle
+comment8.target=Wort\ gibWort(java.lang.String,\ boolean)
+comment9.params=
+comment9.target=void\ loescheLoesung()
+numComments=10

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WortPuzzle
+comment1.params=loesung
+comment1.target=WortPuzzle(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ gibBuchstaben()
+comment3.params=antw
+comment3.target=boolean\ pruefeLoesung(java.lang.String)
+numComments=4
