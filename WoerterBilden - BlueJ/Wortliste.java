@@ -8,8 +8,6 @@ import java.util.List;
 public class Wortliste {
     private List<Wort> liste;
     private Wort dasWort;
-    
-    //Die Variable antw wird im Sequenzdiagramm verwendet (pWort im Klassendiagramm)
 
     private int aAnzahlWoerter;
     private int aldxGewaehltesWort;
